@@ -54,12 +54,12 @@ I’m **Nazmul**, a MERN Stack Developer focused on building clean, performant a
 - Fast load times & good DX
 
     </td>
-    <td width="45%" valign="top" align="center">
+    <td width="45%" valign="center" align="center">
 
 <!-- Personal logo (upload `logo.png` to repo root or change path) -->
-<p align="center">
+<!-- <p align="center">
   <img src="./logo.png" alt="Nazmul Logo" width="140" style="border-radius:16px; box-shadow: 0 8px 30px rgba(0,0,0,0.6);" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nazmul&theme=tokyonight&hide_border=true" height="90" />
@@ -67,7 +67,7 @@ I’m **Nazmul**, a MERN Stack Developer focused on building clean, performant a
   <img src="https://github-readme-stats.vercel.app/api?username=Nazmul&show_icons=true&theme=tokyonight&hide_border=true" height="90" />
 </p>
 
-    </td>
+    najmulislam624@gmail.com
   </tr>
 </table>
 
