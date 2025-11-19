@@ -101,15 +101,17 @@ I’m **Nazmul**, a MERN Stack Developer focused on building clean, performant a
 
 ---
 
+<h3 align="left"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> Activity Grapgh </h3>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=najmulkhan1&theme=react-dark&area=true&hide_border=true&custom_color=0a1f44"/>
 
+
+<h3 align="left"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> Contribution Snake </h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</p>
 
 ---
 
-## 🌊 Animated Contribution & Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nazmul&theme=react-dark&color=00eaff&line=00eaff&point=ffffff&area=true" alt="activity" />
-</p>
 
 ---
 
