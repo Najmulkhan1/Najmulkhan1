@@ -101,12 +101,7 @@ I’m **Nazmul**, a MERN Stack Developer focused on building clean, performant a
 
 ---
 
-## 🚀 Featured Projects (click to view)
 
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nazmul&repo=MERN-Project&theme=tokyonight" alt="pin1" style="margin:8px;" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nazmul&repo=React-App&theme=tokyonight" alt="pin2" style="margin:8px;" /></a>
-</p>
 
 ---
 
