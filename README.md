@@ -121,9 +121,9 @@ I’m **Nazmul**, a MERN Stack Developer focused on building clean, performant a
 ## 📫 Connect & CTA
 
 <p align="center">
-  <a href="#" style="text-decoration:none"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/nazmul-khan-692318322" style="text-decoration:none"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="#" style="text-decoration:none"><img src="https://img.shields.io/badge/-Portfolio-00eaff?style=for-the-badge&logo=google-chrome" /></a>
-  <a href="mailto:your-email@gmail.com" style="text-decoration:none"><img src="https://img.shields.io/badge/-Email-ff6ad5?style=for-the-badge&logo=gmail" /></a>
+  <a href="najmulislam624@gmail.com" style="text-decoration:none"><img src="https://img.shields.io/badge/-Email-ff6ad5?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
