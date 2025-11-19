@@ -132,9 +132,7 @@ I’m **Nazmul**, a MERN Stack Developer focused on building clean, performant a
   </svg>
 </div>
 
-<p align="center">
-  <sub>“Code is not just logic — it's an experience.” • <strong>Nazmul</strong></sub>
-</p>
+<p align="center"> <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="200" /> </p> <p align="center"> <sub>“Code is not just logic — it's an experience.” — <strong>Nazmul</strong></sub> </p>
 
 <!-- TIPS: -->
 <!-- 1) Upload your banner image as 'banner.png' in repo root or change URL above. -->
